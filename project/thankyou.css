@@ -1,0 +1,11 @@
+body{
+  background-color: #003665;
+  color: white;
+  text-align: center;
+}
+
+#thankyoupage{
+  border: 20px solid green;
+  height: 100px;
+  width: 300px;
+}
